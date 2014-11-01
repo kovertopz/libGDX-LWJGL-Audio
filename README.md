@@ -1,4 +1,4 @@
 libGDX-LWJGL-Audio
 ==================
 
-The audio package from gdx-backend-lwjgl and interfaces from libGDX.
+The audio package from gdx-backend-lwjgl and supporting classes and interfaces from libGDX.
