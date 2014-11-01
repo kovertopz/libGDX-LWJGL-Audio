@@ -8,6 +8,7 @@
     <version>2014.11.01</version>
     <inceptionYear>2014</inceptionYear>
     <packaging>jar</packaging>
+	<name>libGDX-LWJGL-Audio</name>
 
     <developers>
         <developer>
