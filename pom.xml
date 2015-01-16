@@ -8,7 +8,7 @@
     <version>2014.11.01</version>
     <inceptionYear>2014</inceptionYear>
     <packaging>jar</packaging>
-	<name>libGDX-LWJGL-Audio</name>
+    <name>libGDX-LWJGL-Audio</name>
 
     <developers>
         <developer>
@@ -29,7 +29,7 @@
         <jlayer.version>1.0.2-gdx</jlayer.version>
         <jorbis.version>0.0.17</jorbis.version>
         <junit.version>4.11</junit.version>
-        <lwjgl.version>2.9.1</lwjgl.version>
+        <lwjgl.version>2.9.2</lwjgl.version>
         <mavencompiler.version>2.5.1</mavencompiler.version>
         <mavenjavadoc.version>2.10.1</mavenjavadoc.version>
         <maven.compiler.source>1.8</maven.compiler.source>
